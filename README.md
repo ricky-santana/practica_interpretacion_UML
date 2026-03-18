@@ -9,3 +9,4 @@ Busqué un diagrama UML para practicar su lectura e interpretación. En este eje
 * **Asociaciones Bidireccionales:** Relaciones entre `Order`, `Customer` e `Item`.
 * **Enumeraciones:** Uso de `OrderStatus` para el control de estados.
 * **Multiplicidad:** Uso de `ArrayList` para representar relaciones `*` y `1..*`.
+<img width="668" height="473" alt="Unknown" src="https://github.com/user-attachments/assets/84740b3d-5122-4359-a8b3-126d2826c37b" />
